@@ -1,0 +1,69 @@
+<html>
+<head> <link rel="stylesheet" type="text/css" href="style.css" /></head>
+<body>
+  <table border="0" width="100%" height="150%">
+  <h1><tr style="height: 5%">
+    <td><div class="kotak"><table width="100%">
+        <tr>
+          <td style="width: 25%"><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nabati_brand_logo.svg/1200px-Nabati_brand_logo.svg.png" Width="20%"/></center></td>
+      <td style="width: 10%"><a class="link-website" href="Home.html"><center>Home</center></a></td>
+      <td style="width: 10%"><a class="link-website1" href="about.html" style="color: black"><center>Tentang</center></a></td>
+      <td style="width: 10%"><center><a class="link-website1" href="produk.html" style="color: black">Produk</a></center></td>
+      <td style="width: 10%"><a class="link-website1" href="blog.html" style="color: black"><center>Berita & Acara</center></a></td>
+      <td style="width: 10%"><a class="link-website1" href="kontak.html" style="color: black"><center>Kontak Kami</center></a></td>
+      </tr>
+      </table></div>
+    </td>
+    </tr></h1>
+    <tr style="background-color:  #AF69EE ; height: 15%">
+      <td colspan="6"><br><center><img src="https://www.nabatisnack.co.id/wp-content/uploads/2022/01/image3_brand_biscuit_soft-dough.png" Width="40%"></center></td>
+    </tr>
+    <tr style="background-color: #74e359; height: 25%;"rowspan="2">
+      <td colspan="12">
+        <table width="100%" height="100%" border="0">
+        <tr>
+          <td colspan="3"><img src="https://www.nabatisnack.co.id/wp-content/uploads/2022/12/nextar_home.png" Width="40%"></td>
+          <td colspan="9">
+          <h2>Nabati Nextar</h2>
+          <h3>Nextar Nastar / Cookies adalah cookies dengan tekstur kulit luar<br>yang lembut dan tersedia dalam berbagai rasa buah.<br>Terbuat dari bahan alami pilihan serta komposisi yang tepat<br>sehingga tercipta produk yang kaya rasa.</h3><br><a href="produk.html" class="btn third"><h3>Selengkapnya</h3></a></td>
+      </tr>
+      </table></td>
+    </tr>
+    <tr style="height: 15%">
+      <td>
+        <div class="border"><table width="100%" height="100%" border="0">
+        <tr>
+          <td colspan="6">
+            <pre>
+              <div class="font">
+         Tentang Nabati</div>
+              PT Kaldu Sari Nabati Indonesia 
+              Merupakan unit bisnis rintisan awal 
+              dari nabati Group.
+              Perusahaan bergereak di industri Makanan dan minuman ringan</pre></td>
+          </td>
+          <td colspan="6">
+            <br>
+            <Pre>
+              <div class="font">
+         Kantor Pusat</div>
+              Nabati Group
+              Jl.Soekarno-Hatta No.112 Bandung
+              Jawa Barat, Indonesia
+              Telp : +6222-6000666 / +6222-6001666
+              Fax : +6222-60018777
+          </Pre>
+          </td>
+      </tr>
+      </table></div>
+      </td>
+    </tr>
+    <tr style="height: 5%">
+      <td colspan="12"><h4>@Website PT Kaldu Sari Nabati Company Profile by Informatika 5</h4></td>
+    </tr>
+  </table>
+  
+  
+</body>
+
+</html>
